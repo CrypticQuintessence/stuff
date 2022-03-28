@@ -1,4 +1,4 @@
-# YOU HAVE TO DOWNLOAD THESE 4 FILES MANUALLY AS THEY ARE TO BIG 
+# YOU HAVE TO DOWNLOAD THESE 5 FILES MANUALLY AS THEY ARE TO BIG 
 
 1.) Bashed Patch - Default.rar (Link: https://drive.google.com/file/d/17HA9VD-iBsym4J2Dbt7y7ssHIPAghZTR/view?usp=sharing )
 
@@ -8,6 +8,19 @@
 
 4.) Overwrite 1.rar (Link: https://drive.google.com/file/d/1OSTBN7q_VnLo27mlnMJX-ao3wwt4KmpY/view?usp=sharing )
 
+5.) Dyndolod_Output.zip (Link: https://drive.google.com/file/d/1I1H3uFgu4_uh8EyDuZ2UqK4II21I36qO/view?usp=sharing )
+
 Once all of them are downloaded, drag the archives into your downloads folder located in MO2 *Mod Organizer 2*
 
-Follow the instructions.
+and then install them manually by double clicking them in the right side pane of MO2 under Downloads.
+
+Make sure that the Last two files in your load order are 
+
+Dyndolod - Textures 
+
+Dyndolod_Output 
+
+They should all be active (checked)
+
+GO Back to https://github.com/CrypticQuintessence/CrypticQuintessence/blob/main/Installation%20Instructions.md
+and follow all instructions.
